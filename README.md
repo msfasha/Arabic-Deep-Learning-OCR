@@ -23,7 +23,12 @@ The code in this model was based on the work of:
 
 https://github.com/githubharald/SimpleHTR.
 
-## Usage, Run on Local Environment:
+## Usage:
+## Run on Google Colab
+Open this notebook on Google Colab (./src/Arabic_OCR.ipynb).
+
+## Run on Local Computer
+Run on Local Environment:
 
 - Clone/fork the repository into you local system.
 - Create python virtual environment in the repository directory.
