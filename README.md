@@ -21,7 +21,7 @@ The code in this model was based on the work of https://github.com/githubharald/
 
 ## Usage, Run on Local Environment:
 
-- Clone/fork the repository into you local system (git clone git@github.com:msfasha/Arabic-Deep-Learning-OCR.git)
+- Clone/fork the repository into you local system.
 - Create python virtual environment in the repository directory.
 
   sudo apt-get install python3-venv
