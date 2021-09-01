@@ -1,4 +1,4 @@
-# ArabicOCR
+# Arabic OCR
 
 This model can be used to train Deep Learning OCR models to recognize words in any language including Arabic. 
 The model operates in an end to end manner with high accuracy words without the need to segment words.
