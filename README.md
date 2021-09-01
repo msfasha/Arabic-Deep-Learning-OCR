@@ -12,8 +12,8 @@ Samples of the used dataset (binary format) can be found at: https://drive.googl
 
 ## Usage:
 
-- Download code files from the repository (git clone git@github.com:msfasha/Arabic-Deep-Learning-OCR.git)
-- Create python virtual environment in the created directory.
+- Clone/fork the repository into you local system (git clone git@github.com:msfasha/Arabic-Deep-Learning-OCR.git)
+- Create python virtual environment in the repository directory.
 
   sudo apt-get install python3-venv
   python3 -m venv env
