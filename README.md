@@ -48,9 +48,8 @@ Change runtime to GPU or TPU for better performance.
 The settings of the run session can be adjusted in the Config section of the notebook.
 
 ## Run on Local Computer
-Run on Local Environment:
 
-- Clone/fork the repository into you local system.
+- Clone/fork the repository to your local host.
 - Create python virtual environment in the repository directory.
 
   sudo apt-get install python3-venv
