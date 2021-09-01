@@ -56,7 +56,7 @@ The code in this model was based on the work of https://github.com/githubharald/
 
 - Initial setting of the configuration is:
 
-- BASE_FILENAME = "1_nice_60000_rows" //(can be downloaded from https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing)
+- BASE_FILENAME = "1_nice_60000_rows"
 - OPERATION_TYPE = OperationType.Training
 - REGENERATE_CHARLIST_AND_CORPUS = True
 - TRAINING_SAMPLES_PER_EPOCH = 5000
