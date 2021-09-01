@@ -53,6 +53,7 @@ The settings of the run session can be adjusted in the Config section of the not
 - Create python virtual environment in the repository directory.
 
   sudo apt-get install python3-venv
+  
   python3 -m venv env
 
 - Activate python virtual environment.
