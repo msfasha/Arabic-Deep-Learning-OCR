@@ -27,6 +27,26 @@ https://github.com/githubharald/SimpleHTR.
 ## Run on Google Colab
 Open this notebook on Google Colab [Notebook](./Arabic_OCR.ipynb).
 
+Select and download a sample dataset from: https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
+
+A suitable dataset for initial training is the (1_nice_60000_rows) dataset as it has a moderate size.
+
+Download the two files of that dataset:
+
+1_nice_60000_rows.bin https://drive.google.com/file/d/1K2EzzIwI5A0rJ0X0yQGj4p_bpo1hs0Sm/view?usp=sharing
+
+and
+
+1_nice_60000_rows.txt https://drive.google.com/file/d/1uLf5ijOcupi-JuYZWYj7s6Jb-d2u2i4B/view?usp=sharing
+
+Upload those files into you Colab account, and place them in the /content/ folder. You can place the dataset files at any folder of your preference but change the path settings in the begining of the notebook
+
+Run the cells one by one, or run them all in sequence.
+
+Change runtime to GPU or TPU for better performance.
+
+The settings of the run session can be adjusted in the Config section of the notebook.
+
 ## Run on Local Computer
 Run on Local Environment:
 
