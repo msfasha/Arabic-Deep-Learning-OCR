@@ -1,5 +1,7 @@
 # ArabicOCR
 
+The code in this model is based on the work of https://github.com/githubharald/SimpleHTR.
+
 The details of this model was presented at:
 https://arxiv.org/abs/2009.01987
 
