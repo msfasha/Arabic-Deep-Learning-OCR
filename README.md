@@ -4,8 +4,6 @@ This model can be used to train Deep Learning OCR models to recognize words in a
 The model operates in an end to end manner with high accuracy words without the need to segment words.
 The model can be trained to recognized words in different fonts. It was tested on (18) font types and the accuracy was high.
 
-The code in this model was based on the work of https://github.com/githubharald/SimpleHTR.
-
 The details of this model are presented at:
 https://arxiv.org/abs/2009.01987
 
@@ -17,6 +15,7 @@ Samples of the datasets that were used to train and test the model can be found 
 
 https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
+The code in this model was based on the work of https://github.com/githubharald/SimpleHTR.
 
 ## Usage, Run on Local Environment:
 
@@ -60,3 +59,7 @@ https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sha
 - The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset, and the training session will start.
 
 Different datasets can be generated using https://github.com/msfasha/TextIimagesToolkit
+
+## References
+* [A Hybrid Deep Learning Model For Arabic Text Recognition](https://arxiv.org/abs/2009.01987)
+* [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/2326a3487cd5)
