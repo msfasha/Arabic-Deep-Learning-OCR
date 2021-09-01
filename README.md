@@ -11,7 +11,7 @@ https://arxiv.org/abs/2009.01987
 
 The code to generate the dataset (Arabic word images and labels) can be found at:
 
-https://github.com/msfasha/TextIimagesToolkit
+https://github.com/msfasha/TextImagesToolkit
 
 Using this toolkit, Arabic words can be generated using different fonts, sizes, word length, augmentation and many other features.
 
