@@ -5,7 +5,7 @@ The code in this model is based on the work of https://github.com/githubharald/S
 The details of this model was presented at:
 https://arxiv.org/abs/2009.01987
 
-Code to generate images can be found at:
+Code to generate the dataset (Arabic word images and labels) can be found at:
 https://github.com/msfasha/TextIimagesToolkit
 
 Samples of the used dataset (binary format) can be found at: https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
