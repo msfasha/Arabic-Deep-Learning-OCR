@@ -1,16 +1,24 @@
 # ArabicOCR
 
-The code in this model is based on the work of https://github.com/githubharald/SimpleHTR.
+## This model can be used to train OCR Deep Learning models to recognize words in any language including Arabic.
+## The model operates in an end to end manner with high accuracy words without the need to segment words.
+## The model can be trained to recognized words in different fonts. It was tested on (18) font types and the accuracy was high.
 
-The details of this model was presented at:
+The code in this model was based on the work of https://github.com/githubharald/SimpleHTR.
+
+The details of this model are presented at:
 https://arxiv.org/abs/2009.01987
 
-Code to generate the dataset (Arabic word images and labels) can be found at:
+The code to generate the dataset (Arabic word images and labels) can be found at:
 https://github.com/msfasha/TextIimagesToolkit
+Using that toolkit, Arabic words can be generated using different fonts, word length and word number in a line.
 
-Samples of the used dataset (binary format) can be found at: https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
+Samples of the datasets that were used to train and test the model can be found at: 
 
-## Usage:
+https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
+
+
+## Usage, Run on Local Environment:
 
 - Clone/fork the repository into you local system (git clone git@github.com:msfasha/Arabic-Deep-Learning-OCR.git)
 - Create python virtual environment in the repository directory.
