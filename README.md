@@ -4,7 +4,7 @@ This model can be used to train Deep Learning OCR models to recognize words in a
 The model operates in an end to end manner with high accuracy words without the need to segment words.
 The model can be trained to recognized words in different fonts. It was tested on (18) font types and the accuracy was high.
 
-![font_list](./images/fonts_list.png)
+![font_list](./images/font_list.png)
 
 The details of this model are presented at:
 https://arxiv.org/abs/2009.01987
