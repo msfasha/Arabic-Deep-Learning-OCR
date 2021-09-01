@@ -25,7 +25,7 @@ https://github.com/githubharald/SimpleHTR.
 
 ## Usage:
 ## Run on Google Colab
-Open this notebook on Google Colab [Notebook](./Arabic_OCR.ipynb).
+Open this notebook in Google Colab [Notebook](./Arabic_OCR.ipynb).
 
 Select and download a sample dataset from: https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
