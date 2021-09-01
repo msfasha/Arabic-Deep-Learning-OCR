@@ -16,14 +16,17 @@ Samples of the used dataset (binary format) can be found at: https://drive.googl
 
 - Download code files from the repository (git clone git@github.com:msfasha/Arabic-Deep-Learning-OCR.git)
 - Create python virtual environment in the created directory.
+
   sudo  apt-get install python3-venv
   python3 -m venv env
   
 - Activate python virtual environment.
+
   source ./env/activate
   
 - install ll the required python librararies (this script uses TensorFlow version 1.x).
-	pip install -r requirements.txt
+
+  pip install -r requirements.txt
 
 - Download sample dataset from:
   https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
