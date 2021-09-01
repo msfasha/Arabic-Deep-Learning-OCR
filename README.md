@@ -41,13 +41,13 @@ Samples of the used dataset (binary format) can be found at: https://drive.googl
 
   BASE_FILENAME = "1_nice_60000_rows" //(can be downloaded from https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing)
 
-  OPERATION_TYPE = OperationType.Training
-  REGENERATE_CHARLIST_AND_CORPUS = True
-  TRAINING_SAMPLES_PER_EPOCH = 5000
-  BATCH_SIZE = 100
-  IMAGE_WIDTH = 128
-  IMAGE_HEIGHT = 32
-  MAX_TEXT_LENGTH = 32
+    OPERATION_TYPE = OperationType.Training
+    REGENERATE_CHARLIST_AND_CORPUS = True
+    TRAINING_SAMPLES_PER_EPOCH = 5000
+    BATCH_SIZE = 100
+    IMAGE_WIDTH = 128
+    IMAGE_HEIGHT = 32
+    MAX_TEXT_LENGTH = 32
 
 - In the terminal window, goto src folder and run python Main.py.
 - The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset.
