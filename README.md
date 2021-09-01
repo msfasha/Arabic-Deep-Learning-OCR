@@ -39,6 +39,7 @@ The code in this model was based on the work of https://github.com/githubharald/
   A suitable dataset for initial training is the (1_nice_60000_rows) dataset.
 
   Download the two files of that dataset are:
+  
     1_nice_60000_rows.bin
     https://drive.google.com/file/d/1K2EzzIwI5A0rJ0X0yQGj4p_bpo1hs0Sm/view?usp=sharing
     
