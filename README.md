@@ -49,6 +49,6 @@ Samples of the used dataset (binary format) can be found at: https://drive.googl
 - MAX_TEXT_LENGTH = 32
 
 - In the terminal window, goto src folder and run python Main.py.
-- The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset.
+- The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset, and the training session will start.
 
-Different datasets can be generated using https://github.com/JTCodeStore/TextIimagesToolkit
+Different datasets can be generated using https://github.com/msfasha/TextIimagesToolkit
