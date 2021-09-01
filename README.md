@@ -96,7 +96,7 @@ The settings of the run session can be adjusted in the Config section of the not
 - In the terminal window, goto src folder and run python Main.py.
 - The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset, and the training session will start.
 
-Different datasets can be generated using https://github.com/msfasha/TextIimagesToolkit
+Different datasets can be generated using https://github.com/msfasha/TextImagesToolkit
 
 ## References
 * [A Hybrid Deep Learning Model For Arabic Text Recognition](https://arxiv.org/abs/2009.01987)
