@@ -38,7 +38,12 @@ The code in this model was based on the work of https://github.com/githubharald/
 
   A suitable dataset for initial training is the (1_nice_60000_rows) dataset.
 
-  Download the two files of that dataset (1_nice_60000_rows.bin and 1_nice_60000_rows.txt).
+  Download the two files of that dataset are:
+    1_nice_60000_rows.bin
+    https://drive.google.com/file/d/1K2EzzIwI5A0rJ0X0yQGj4p_bpo1hs0Sm/view?usp=sharing
+    and 
+    1_nice_60000_rows.txt
+    https://drive.google.com/file/d/1uLf5ijOcupi-JuYZWYj7s6Jb-d2u2i4B/view?usp=sharing
 
 - Save dataset files in the dataset folder of the project (the location of the data files can be changed in Config.py).
 
