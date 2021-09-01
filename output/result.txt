@@ -1,0 +1,982 @@
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 09:57:28
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:06:09
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:09:35
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:11:52
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:16:29
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:16:59
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:25:17
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:26:36
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:41:16
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:43:31
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:44:05
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:45:44
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:46:57
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 25000
+Validation Samples per step: 5000
+Batch size: 50
+TRAINING_SAMPLES_PER_EPOCH: 25000
+BATCH_SIZE: 50
+VALIDATIOIN_SAMPLES_PER_STEP: 5000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 10:50:17
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 5000
+Validation Samples per step: 1000
+Batch size: 100
+TRAINING_SAMPLES_PER_EPOCH: 5000
+BATCH_SIZE: 100
+VALIDATIOIN_SAMPLES_PER_STEP: 1000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+Epoch Number 1.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:51:39
+Accumulated Processing Time : 1.3057640353838602 minutes
+Characters Success Rate: 28.929593589009727%
+Words Success Rate: 0.0%
+
+Epoch Number 2.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:53:03
+Accumulated Processing Time : 2.7027112523714703 minutes
+Characters Success Rate: 32.32276657060519%
+Words Success Rate: 0.0%
+
+Epoch Number 3.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:54:25
+Accumulated Processing Time : 4.063704558213552 minutes
+Characters Success Rate: 39.09540798711014%
+Words Success Rate: 0.0%
+
+Epoch Number 4.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:55:48
+Accumulated Processing Time : 5.428344150384267 minutes
+Characters Success Rate: 43.07639049157628%
+Words Success Rate: 0.0%
+
+Epoch Number 5.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:57:08
+Accumulated Processing Time : 6.770041294892629 minutes
+Characters Success Rate: 37.50574712643678%
+Words Success Rate: 0.0%
+
+Epoch Number 6.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:58:26
+Accumulated Processing Time : 8.06307021776835 minutes
+Characters Success Rate: 50.49255441008018%
+Words Success Rate: 0.0%
+
+Epoch Number 7.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 10:59:46
+Accumulated Processing Time : 9.390170363585154 minutes
+Characters Success Rate: 58.57258157500288%
+Words Success Rate: 0.0%
+
+Epoch Number 8.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:01:02
+Accumulated Processing Time : 10.648812174797058 minutes
+Characters Success Rate: 52.04199353945547%
+Words Success Rate: 0.0%
+
+Epoch Number 9.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:02:15
+Accumulated Processing Time : 11.871539223194123 minutes
+Characters Success Rate: 65.3016495558888%
+Words Success Rate: 1.0999999999999999%
+
+Epoch Number 10.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:03:29
+Accumulated Processing Time : 13.100899978478749 minutes
+Characters Success Rate: 60.20396470723044%
+Words Success Rate: 0.6%
+
+Epoch Number 11.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:04:46
+Accumulated Processing Time : 14.38280148903529 minutes
+Characters Success Rate: 74.65501379944803%
+Words Success Rate: 6.0%
+
+Epoch Number 12.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:06:03
+Accumulated Processing Time : 15.660519901911417 minutes
+Characters Success Rate: 72.14410226612435%
+Words Success Rate: 4.2%
+
+Epoch Number 13.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:07:23
+Accumulated Processing Time : 17.002008859316508 minutes
+Characters Success Rate: 64.24137931034483%
+Words Success Rate: 0.3%
+
+Epoch Number 14.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:08:41
+Accumulated Processing Time : 18.284916492303214 minutes
+Characters Success Rate: 75.13445474310562%
+Words Success Rate: 6.5%
+
+Epoch Number 15.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:09:58
+Accumulated Processing Time : 19.55892374118169 minutes
+Characters Success Rate: 86.12962537347735%
+Words Success Rate: 31.3%
+
+Epoch Number 16.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:11:21
+Accumulated Processing Time : 20.936156396071116 minutes
+Characters Success Rate: 86.83754762729477%
+Words Success Rate: 32.0%
+
+Epoch Number 17.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:12:37
+Accumulated Processing Time : 22.211196386814116 minutes
+Characters Success Rate: 89.36243538196439%
+Words Success Rate: 43.6%
+
+Epoch Number 18.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:13:53
+Accumulated Processing Time : 23.470177618662515 minutes
+Characters Success Rate: 89.56822107081175%
+Words Success Rate: 42.3%
+
+Epoch Number 19.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:15:11
+Accumulated Processing Time : 24.76019314924876 minutes
+Characters Success Rate: 91.09683340982102%
+Words Success Rate: 50.6%
+
+Epoch Number 20.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:16:32
+Accumulated Processing Time : 26.114313884576163 minutes
+Characters Success Rate: 93.85005182540597%
+Words Success Rate: 63.6%
+
+Epoch Number 21.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:17:52
+Accumulated Processing Time : 27.434101061026254 minutes
+Characters Success Rate: 87.51301932646685%
+Words Success Rate: 30.0%
+
+Epoch Number 22.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:19:11
+Accumulated Processing Time : 28.76038576364517 minutes
+Characters Success Rate: 91.7861649650109%
+Words Success Rate: 54.2%
+
+Epoch Number 23.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:20:36
+Accumulated Processing Time : 30.166090750694273 minutes
+Characters Success Rate: 92.96892980437285%
+Words Success Rate: 57.199999999999996%
+
+Epoch Number 24.
+Character error rate not improved
+Start Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:22:05
+Accumulated Processing Time : 31.659878635406493 minutes
+Characters Success Rate: 72.19349649546135%
+Words Success Rate: 4.5%
+
+Epoch Number 25.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 10:50:17
+End Execution Time  :09/01/2021, 11:23:29
+Accumulated Processing Time : 33.04793389638265 minutes
+Characters Success Rate: 95.41905855338692%
+Words Success Rate: 71.0%
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 11:46:44
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 5000
+Validation Samples per step: 1000
+Batch size: 100
+TRAINING_SAMPLES_PER_EPOCH: 5000
+BATCH_SIZE: 100
+VALIDATIOIN_SAMPLES_PER_STEP: 1000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+Epoch Number 1.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 11:46:44
+End Execution Time  :09/01/2021, 11:48:08
+Accumulated Processing Time : 1.347170090675354 minutes
+Characters Success Rate: 17.964071856287422%
+Words Success Rate: 0.0%
+
+Epoch Number 2.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 11:46:44
+End Execution Time  :09/01/2021, 11:49:35
+Accumulated Processing Time : 2.7972306966781617 minutes
+Characters Success Rate: 21.952615314181067%
+Words Success Rate: 0.0%
+
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 11:51:19
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 5000
+Validation Samples per step: 1000
+Batch size: 100
+TRAINING_SAMPLES_PER_EPOCH: 5000
+BATCH_SIZE: 100
+VALIDATIOIN_SAMPLES_PER_STEP: 1000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
+Epoch Number 1.
+Character error rate improved, saving modelStart Execution Time : 09/01/2021, 11:51:19
+End Execution Time  :09/01/2021, 11:52:43
+Accumulated Processing Time : 1.3421420772870383 minutes
+Characters Success Rate: 28.791537311716688%
+Words Success Rate: 0.0%
+

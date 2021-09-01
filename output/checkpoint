@@ -1,0 +1,4 @@
+model_checkpoint_path: "/mywork/dev/ArabicOCR/data/Test Drive Training Process-16"
+all_model_checkpoint_paths: "/mywork/dev/ArabicOCR/data/Test Drive Training Process-14"
+all_model_checkpoint_paths: "/mywork/dev/ArabicOCR/data/Test Drive Training Process-15"
+all_model_checkpoint_paths: "/mywork/dev/ArabicOCR/data/Test Drive Training Process-16"
