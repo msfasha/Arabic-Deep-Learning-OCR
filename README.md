@@ -25,7 +25,7 @@ https://github.com/githubharald/SimpleHTR.
 
 ## Usage:
 ## Run on Google Colab
-Open this notebook on Google Colab ![font_list](./src/Arabic_OCR.ipynb).
+Open this notebook on Google Colab ![notebook](./Arabic_OCR.ipynb).
 
 ## Run on Local Computer
 Run on Local Environment:
