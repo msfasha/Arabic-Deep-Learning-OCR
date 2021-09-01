@@ -59,6 +59,10 @@ The settings of the run session can be adjusted in the Config section of the not
 - Activate python virtual environment.
 
   source ./env/activate
+  
+  Update pip
+  
+  pip install --upgrade pip
 
 - install the required python libraries (this script uses TensorFlow version 1.x).
 
