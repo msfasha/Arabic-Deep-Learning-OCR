@@ -10,14 +10,18 @@ The details of this model are presented in:
 https://arxiv.org/abs/2009.01987
 
 The code to generate the dataset (Arabic word images and labels) can be found at:
+
 https://github.com/msfasha/TextIimagesToolkit
-Using that toolkit, Arabic words can be generated using different fonts, word length and word number in a line.
+
+Using this toolkit, Arabic words can be generated using different fonts, sizes, word length, augmentation and many other features.
 
 Samples of the datasets that were used to train and test the model can be found at: 
 
 https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
-The code in this model was based on the work of https://github.com/githubharald/SimpleHTR.
+The code in this model was based on the work of:
+
+https://github.com/githubharald/SimpleHTR.
 
 ## Usage, Run on Local Environment:
 
