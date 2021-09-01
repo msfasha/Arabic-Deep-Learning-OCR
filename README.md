@@ -6,7 +6,7 @@ The model can be trained to recognized words in different fonts. It was tested o
 
 ![font_list](./images/font_list.png)
 
-The details of this model are presented at:
+The details of this model are presented in:
 https://arxiv.org/abs/2009.01987
 
 The code to generate the dataset (Arabic word images and labels) can be found at:
