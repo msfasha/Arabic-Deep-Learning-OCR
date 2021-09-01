@@ -980,3 +980,50 @@ Accumulated Processing Time : 1.3421420772870383 minutes
 Characters Success Rate: 28.791537311716688%
 Words Success Rate: 0.0%
 
+EXPERIMENT_NAME: Test Drive Training Process
+Training Using Dataset: OperationType.Training
+Model Details
+Shape:(5, 5, 1, 32) ,shape length:4 , parameters: 800
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(32,) ,shape length:1 , parameters: 32
+Shape:(5, 5, 32, 64) ,shape length:4 , parameters: 51200
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(64,) ,shape length:1 , parameters: 64
+Shape:(3, 3, 64, 128) ,shape length:4 , parameters: 73728
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 128) ,shape length:4 , parameters: 147456
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(128,) ,shape length:1 , parameters: 128
+Shape:(3, 3, 128, 256) ,shape length:4 , parameters: 294912
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(256,) ,shape length:1 , parameters: 256
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(512, 1024) ,shape length:2 , parameters: 524288
+Shape:(1024,) ,shape length:1 , parameters: 1024
+Shape:(1, 1, 512, 47) ,shape length:4 , parameters: 24064
+Total Parameters: 1644000
+
+____________________________________________________________
+Experiment Name: Test Drive Training Process
+Base File Name: 1_nice_60000_rows
+Start Execution Time :09/01/2021, 13:17:09
+Training set size: 54000
+Validation set size: 3000
+Training Samples per epoch: 5000
+Validation Samples per step: 1000
+Batch size: 100
+TRAINING_SAMPLES_PER_EPOCH: 5000
+BATCH_SIZE: 100
+VALIDATIOIN_SAMPLES_PER_STEP: 1000
+TRAINING_DATASET_SIZE: 0.9
+VALIDATION_DATASET_SPLIT_SIZE: 0.5
+IMAGE_WIDTH: 128
+IMAGE_HEIGHT: 32
+MAX_TEXT_LENGTH: 32
+RESIZE_IMAGE: True
+CONVERT_IMAGE_TO_MONOCHROME: False
+MONOCHROME_BINARY_THRESHOLD: 127
+AUGMENT_IMAGE: False
+
