@@ -115,7 +115,7 @@ Sample image 0.png
 ![recognize sample image 0.png](./images/recognize_image_0.png)
 
 Sample image 1.png
-![recognize sample image 1.png](./images/recognize_image_0.png)
+![recognize sample image 1.png](./images/recognize_image_1.png)
 
 
 ## References
