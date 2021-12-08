@@ -33,17 +33,17 @@ Open this notebook in Google Colab [Notebook](./Arabic_OCR.ipynb).
 
 Select and download a sample dataset from: https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
-A suitable dataset for initial training is the (1_nice_60000_rows) dataset as it has a moderate size.
+A suitable dataset for initial training is the (1_Arial_120000_rows) dataset as it has a moderate size.
 
-Download the two files of that dataset:
+Download the two files of that dataset from the dataset repository:
 
-1_nice_60000_rows.bin https://drive.google.com/file/d/1K2EzzIwI5A0rJ0X0yQGj4p_bpo1hs0Sm/view?usp=sharing
+1_Arial_120000_rows.bin 
 
 and
 
-1_nice_60000_rows.txt https://drive.google.com/file/d/1uLf5ijOcupi-JuYZWYj7s6Jb-d2u2i4B/view?usp=sharing
+1_Arial_120000_rows.txt 
 
-Upload those files into you Colab account, and place them in the /content/ folder. You can place the dataset files at any folder of your preference but change the path settings in the begining of the notebook
+Upload the two files into you Colab account, and place them in the /content/ folder. You can place the dataset files at any folder of your preference but make sure to change the path settings in the begining of the notebook
 
 Run the cells one by one, or run them all in sequence.
 
@@ -75,16 +75,16 @@ The settings of the run session can be adjusted in the Config section of the not
 - Download sample dataset from:
   https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
-  A suitable dataset for initial training is the (1_nice_60000_rows) dataset.
+  A suitable dataset for initial training is the (1_Arial_120000_rows) dataset.
 
   Download the two files of that dataset are:
   
-    1_nice_60000_rows.bin
+    1_Arial_120000_rows.bin
     https://drive.google.com/file/d/1K2EzzIwI5A0rJ0X0yQGj4p_bpo1hs0Sm/view?usp=sharing
     
     and 
     
-    1_nice_60000_rows.txt
+    1_Arial_120000_rows.txt
     https://drive.google.com/file/d/1uLf5ijOcupi-JuYZWYj7s6Jb-d2u2i4B/view?usp=sharing
 
 - Save dataset files in the dataset folder of the project (the location of the data files can be changed in Config.py).
@@ -93,7 +93,7 @@ The settings of the run session can be adjusted in the Config section of the not
 
 - Initial setting of the configuration is:
 
-- BASE_FILENAME = "1_nice_60000_rows"
+- BASE_FILENAME = "1_Arial_120000_rows"
 - OPERATION_TYPE = OperationType.Training
 - REGENERATE_CHARLIST_AND_CORPUS = True
 - TRAINING_SAMPLES_PER_EPOCH = 5000
@@ -103,7 +103,7 @@ The settings of the run session can be adjusted in the Config section of the not
 - MAX_TEXT_LENGTH = 32
 
 - In the terminal window, goto src folder and run python Main.py.
-- The code will generate training, validation and testing dataset from (1_nice_60000_rows) dataset, and the training session will start.
+- The code will generate training, validation and testing dataset from (1_Arial_120000_rows) dataset, and the training session will start.
 
 Different datasets can be generated using https://github.com/msfasha/TextImagesToolkit
 
