@@ -107,6 +107,14 @@ The settings of the run session can be adjusted in the Config section of the not
 
 Different datasets can be generated using https://github.com/msfasha/TextImagesToolkit
 
+##Recognizing single images
+After training the model, you can set the **OPERATION_TYPE = OperationType.Infer** and define
+the path to the Arabic word images to be recognized:
+
+![recognize sample image 0.png](./images/recognize_image_0.png)
+![recognize sample image 1.png](./images/recognize_image_0.png)
+
+
 ## References
 * [A Hybrid Deep Learning Model For Arabic Text Recognition](https://arxiv.org/abs/2009.01987)
 * [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/2326a3487cd5)
