@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sha
 
 A utility program to unpack binary image files and extract them into png Arabic word image files can be accessed at: 
 
-[ExtractPNGsFromBinary](../../src/fExtractPNGsFromBinary.py)
+[ExtractPNGsFromBinary](/blob/master/src/ExtractPNGsFromBinary.py)
 
 The code in this model was based on the work of:
 
