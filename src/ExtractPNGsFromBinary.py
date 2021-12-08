@@ -12,7 +12,8 @@ For example, the file 1_nice_60000_rows contains 60000 Arabic word images printe
 
 
 To extract images from a binary file, you need to download the binary image file as well as 
-the accompanying txt file that contains labels and information about the stored images
+the accompanying txt file that contains labels and information about the stored images, set the 
+path to these files below and run this program. Make sure to install the required packages i.e. Pillow.
 
 
 More information about this project can be found at:
