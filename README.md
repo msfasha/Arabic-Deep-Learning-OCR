@@ -111,7 +111,10 @@ Different datasets can be generated using https://github.com/msfasha/TextImagesT
 After training the model, you can set the **OPERATION_TYPE = OperationType.Infer** and define
 the path to the Arabic word images to be recognized:
 
+Sample image 0.png
 ![recognize sample image 0.png](./images/recognize_image_0.png)
+
+Sample image 1.png
 ![recognize sample image 1.png](./images/recognize_image_0.png)
 
 
