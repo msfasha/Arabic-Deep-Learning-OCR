@@ -19,6 +19,10 @@ Samples of the datasets that were used to train and test the model can be found 
 
 https://drive.google.com/drive/folders/1mRefmN4Yzy60Uh7z3B6cllyyOXaxQrgg?usp=sharing
 
+A utility program to unpack binary image files and extract them into png Arabic word image files can be accessed at: 
+
+![ExtractPNGsFromBinary](./src/fExtractPNGsFromBinary.py)
+
 The code in this model was based on the work of:
 
 https://github.com/githubharald/SimpleHTR.
