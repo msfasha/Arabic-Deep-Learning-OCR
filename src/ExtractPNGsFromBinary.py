@@ -33,7 +33,7 @@ BASE_IMAGES_FILE = "/home/me/Downloads/1_nice_60000_rows.bin"
 
 # Set the path of the output folder i.e. where you want image files to be extracted
 OUTPUT_FOLDER = "/home/me/Downloads/pngs/"
-FILTERED_LABELS_FILE = OUTPUT_FOLDER + "filtered_results.txt"
+FILTERED_LABELS_FILE = OUTPUT_FOLDER + "labels.txt"
 
 
 # Sample class resemble the structure of information stored about each image stored
